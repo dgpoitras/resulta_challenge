@@ -1,0 +1,1222 @@
+{
+    "results":
+    {
+        "2021-11-01":
+        {
+            "data":
+            {
+                "1410996":
+                {
+                    "stadium": "GEHA Field at Arrowhead Stadium",
+                    "event_id": "1410996",
+                    "event_date": "2021-11-01 20:15",
+                    "away_team_id": "55",
+                    "away_primary_color": "#003B7D",
+                    "away_secondary_color": "#808080",
+                    "away_tertiary_color": "#CA233D",
+                    "away_abbreviation": "NYG",
+                    "away_name": "New York Giants",
+                    "away_nick_name": "Giants",
+                    "away_city": "New York",
+                    "away_image_id": "",
+                    "home_team_id": "63",
+                    "home_primary_color": "#E1AC00",
+                    "home_secondary_color": "#BD0100",
+                    "home_tertiary_color": "#FFFFFF",
+                    "home_abbreviation": "KC",
+                    "home_name": "Kansas City Chiefs",
+                    "home_nick_name": "Chiefs",
+                    "home_city": "Kansas City",
+                    "home_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "17",
+                    "home_score": "20",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "KC",
+                    "away_short_name": "NYG",
+                    "home_display_name": "Kansas City",
+                    "away_display_name": "New York",
+                    "tv_station": "ESPN",
+                    "tv_station_name": "ESPN",
+                    "surface": "Grass",
+                    "stadium_rotation": "140",
+                    "roof": "Open",
+                    "away_record": "2-5",
+                    "home_record": "3-4",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "A":
+                            {
+                                "quarter1score": "0",
+                                "quarter2score": "10",
+                                "quarter3score": "0",
+                                "quarter4score": "7",
+                                "overtimescore": "0",
+                                "totalscore": "17"
+                            },
+                            "H":
+                            {
+                                "quarter1score": "7",
+                                "quarter2score": "7",
+                                "quarter3score": "0",
+                                "quarter4score": "6",
+                                "overtimescore": "0",
+                                "totalscore": "20"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "278",
+                    "away_rotation": "277"
+                }
+            },
+            "columns":
+            {
+                "away_record": "away record",
+                "home_record": "home record",
+                "event_id": "event id",
+                "event_date": "event date",
+                "away_team_id": "away team id",
+                "away_abbreviation": "away abbreviation",
+                "away_name": "away name",
+                "away_city": "away city",
+                "away_nick_name": "away nick name",
+                "away_image_id": "away image id",
+                "away_primary_color": "Away Primary Color",
+                "away_secondary_color": "Away Secondary Color",
+                "away_tertiary_color": "Away Tertiary Color",
+                "home_team_id": "home team id",
+                "home_name": "home name",
+                "home_city": "home city",
+                "home_nick_name": "home nick name",
+                "home_abbreviation": "home abbreviaiton",
+                "home_image_id": "home image id",
+                "home_primary_color": "Home Primary Color",
+                "home_secondary_color": "Home Secondary Color",
+                "home_tertiary_color": "Home Tertiary Color",
+                "stadium": "Stadium",
+                "away_score": "away score",
+                "home_score": "home score",
+                "away_short_name": "Away Short Name",
+                "home_short_name": "Home Short Name",
+                "status": "Status",
+                "recap_available": "recap available",
+                "boxscore_available": "Boxscore Available",
+                "scoring": "scoring",
+                "home_rotation": "Home Rotation Number",
+                "away_rotation": "Away Rotation Number",
+                "weather_code": "Weather Code",
+                "stadium_rotation": "Stadium Rotation",
+                "roof": "Roof",
+                "surface": "surface",
+                "away_display_name": "away display name",
+                "home_display_name": "home display name"
+            }
+        },
+        "2021-11-02":
+        [],
+        "2021-11-03":
+        [],
+        "2021-11-04":
+        {
+            "data":
+            {
+                "1411001":
+                {
+                    "stadium": "Lucas Oil Stadium",
+                    "event_id": "1411001",
+                    "event_date": "2021-11-04 20:20",
+                    "away_team_id": "54",
+                    "away_primary_color": "#055032",
+                    "away_secondary_color": "#055032",
+                    "away_tertiary_color": "#FFFFFF",
+                    "away_abbreviation": "NYJ",
+                    "away_name": "New York Jets",
+                    "away_nick_name": "Jets",
+                    "away_city": "New York",
+                    "away_image_id": "",
+                    "home_team_id": "67",
+                    "home_primary_color": "#003B7B",
+                    "home_secondary_color": "#003B7B",
+                    "home_tertiary_color": "#FFFFFF",
+                    "home_abbreviation": "IND",
+                    "home_name": "Indianapolis Colts",
+                    "home_nick_name": "Colts",
+                    "home_city": "Indianapolis",
+                    "home_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "30",
+                    "home_score": "45",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "IND",
+                    "away_short_name": "NYJ",
+                    "home_display_name": "Indianapolis",
+                    "away_display_name": "New York",
+                    "tv_station": "FOX",
+                    "tv_station_name": "FOX",
+                    "surface": "Turf",
+                    "stadium_rotation": "25",
+                    "roof": "Retractable",
+                    "away_record": "2-5",
+                    "home_record": "3-5",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "A":
+                            {
+                                "quarter1score": "7",
+                                "quarter2score": "3",
+                                "quarter3score": "6",
+                                "quarter4score": "14",
+                                "overtimescore": "0",
+                                "totalscore": "30"
+                            },
+                            "H":
+                            {
+                                "quarter1score": "7",
+                                "quarter2score": "21",
+                                "quarter3score": "14",
+                                "quarter4score": "3",
+                                "overtimescore": "0",
+                                "totalscore": "45"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "312",
+                    "away_rotation": "311"
+                }
+            },
+            "columns":
+            {
+                "away_record": "away record",
+                "home_record": "home record",
+                "event_id": "event id",
+                "event_date": "event date",
+                "away_team_id": "away team id",
+                "away_abbreviation": "away abbreviation",
+                "away_name": "away name",
+                "away_city": "away city",
+                "away_nick_name": "away nick name",
+                "away_image_id": "away image id",
+                "away_primary_color": "Away Primary Color",
+                "away_secondary_color": "Away Secondary Color",
+                "away_tertiary_color": "Away Tertiary Color",
+                "home_team_id": "home team id",
+                "home_name": "home name",
+                "home_city": "home city",
+                "home_nick_name": "home nick name",
+                "home_abbreviation": "home abbreviaiton",
+                "home_image_id": "home image id",
+                "home_primary_color": "Home Primary Color",
+                "home_secondary_color": "Home Secondary Color",
+                "home_tertiary_color": "Home Tertiary Color",
+                "stadium": "Stadium",
+                "away_score": "away score",
+                "home_score": "home score",
+                "away_short_name": "Away Short Name",
+                "home_short_name": "Home Short Name",
+                "status": "Status",
+                "recap_available": "recap available",
+                "boxscore_available": "Boxscore Available",
+                "scoring": "scoring",
+                "home_rotation": "Home Rotation Number",
+                "away_rotation": "Away Rotation Number",
+                "weather_code": "Weather Code",
+                "stadium_rotation": "Stadium Rotation",
+                "roof": "Roof",
+                "surface": "surface",
+                "away_display_name": "away display name",
+                "home_display_name": "home display name"
+            }
+        },
+        "2021-11-05":
+        [],
+        "2021-11-06":
+        [],
+        "2021-11-07":
+        {
+            "data":
+            {
+                "1411006":
+                {
+                    "stadium": "Caesars Superdome",
+                    "event_id": "1411006",
+                    "event_date": "2021-11-07 13:00",
+                    "away_team_id": "49",
+                    "away_primary_color": "#000000",
+                    "away_secondary_color": "#BD0D18",
+                    "away_tertiary_color": "#FFFFFF",
+                    "away_abbreviation": "ATL",
+                    "away_name": "Atlanta Falcons",
+                    "away_nick_name": "Falcons",
+                    "away_city": "Atlanta",
+                    "away_image_id": "",
+                    "home_team_id": "70",
+                    "home_primary_color": "#000000",
+                    "home_secondary_color": "#AB8B54",
+                    "home_tertiary_color": "#FFFFFF",
+                    "home_abbreviation": "NO",
+                    "home_name": "New Orleans Saints",
+                    "home_nick_name": "Saints",
+                    "home_city": "New Orleans",
+                    "home_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "27",
+                    "home_score": "25",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "NO",
+                    "away_short_name": "ATL",
+                    "home_display_name": "New Orleans",
+                    "away_display_name": "Atlanta",
+                    "tv_station": "FOX",
+                    "tv_station_name": "FOX",
+                    "surface": "Turf",
+                    "stadium_rotation": "90",
+                    "roof": "Indoor",
+                    "away_record": "3-4",
+                    "home_record": "5-2",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "A":
+                            {
+                                "quarter1score": "3",
+                                "quarter2score": "7",
+                                "quarter3score": "7",
+                                "quarter4score": "10",
+                                "overtimescore": "0",
+                                "totalscore": "27"
+                            },
+                            "H":
+                            {
+                                "quarter1score": "0",
+                                "quarter2score": "0",
+                                "quarter3score": "3",
+                                "quarter4score": "22",
+                                "overtimescore": "0",
+                                "totalscore": "25"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "466",
+                    "away_rotation": "465"
+                },
+                "1411011":
+                {
+                    "stadium": "AT&T Stadium",
+                    "event_id": "1411011",
+                    "event_date": "2021-11-07 13:00",
+                    "home_team_id": "56",
+                    "home_primary_color": "#002244",
+                    "home_secondary_color": "#8C8B8A",
+                    "home_tertiary_color": "#FFFFFF",
+                    "home_abbreviation": "DAL",
+                    "home_name": "Dallas Cowboys",
+                    "home_nick_name": "Cowboys",
+                    "home_city": "Dallas",
+                    "home_image_id": "",
+                    "away_team_id": "61",
+                    "away_primary_color": "#002244",
+                    "away_secondary_color": "#FB4F14",
+                    "away_tertiary_color": "#FFFFFF",
+                    "away_abbreviation": "DEN",
+                    "away_name": "Denver Broncos",
+                    "away_nick_name": "Broncos",
+                    "away_city": "Denver",
+                    "away_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "30",
+                    "home_score": "16",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "DAL",
+                    "away_short_name": "DEN",
+                    "home_display_name": "Dallas",
+                    "away_display_name": "Denver",
+                    "tv_station": "FOX",
+                    "tv_station_name": "FOX",
+                    "surface": "Turf",
+                    "stadium_rotation": "20",
+                    "roof": "Retractable",
+                    "away_record": "4-4",
+                    "home_record": "6-1",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "H":
+                            {
+                                "quarter1score": "0",
+                                "quarter2score": "0",
+                                "quarter3score": "0",
+                                "quarter4score": "16",
+                                "overtimescore": "0",
+                                "totalscore": "16"
+                            },
+                            "A":
+                            {
+                                "quarter1score": "6",
+                                "quarter2score": "10",
+                                "quarter3score": "3",
+                                "quarter4score": "11",
+                                "overtimescore": "0",
+                                "totalscore": "30"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "454",
+                    "away_rotation": "453"
+                },
+                "1411016":
+                {
+                    "stadium": "TIAA Bank Field",
+                    "event_id": "1411016",
+                    "event_date": "2021-11-07 13:00",
+                    "away_team_id": "53",
+                    "away_primary_color": "#005596",
+                    "away_secondary_color": "#DA2128",
+                    "away_tertiary_color": "#FFFFFF",
+                    "away_abbreviation": "BUF",
+                    "away_name": "Buffalo Bills",
+                    "away_nick_name": "Bills",
+                    "away_city": "Buffalo",
+                    "away_image_id": "",
+                    "home_team_id": "69",
+                    "home_primary_color": "#000000",
+                    "home_secondary_color": "#007197",
+                    "home_tertiary_color": "#CEB139",
+                    "home_abbreviation": "JAC",
+                    "home_name": "Jacksonville Jaguars",
+                    "home_nick_name": "Jaguars",
+                    "home_city": "Jacksonville",
+                    "home_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "6",
+                    "home_score": "9",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "JAC",
+                    "away_short_name": "BUF",
+                    "home_display_name": "Jacksonville",
+                    "away_display_name": "Buffalo",
+                    "tv_station": "CBS",
+                    "tv_station_name": "CBS",
+                    "surface": "Grass",
+                    "stadium_rotation": "15",
+                    "roof": "Open",
+                    "away_record": "5-2",
+                    "home_record": "1-6",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "A":
+                            {
+                                "quarter1score": "3",
+                                "quarter2score": "3",
+                                "quarter3score": "0",
+                                "quarter4score": "0",
+                                "overtimescore": "0",
+                                "totalscore": "6"
+                            },
+                            "H":
+                            {
+                                "quarter1score": "3",
+                                "quarter2score": "3",
+                                "quarter3score": "0",
+                                "quarter4score": "3",
+                                "overtimescore": "0",
+                                "totalscore": "9"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "460",
+                    "away_rotation": "459"
+                },
+                "1411021":
+                {
+                    "stadium": "Hard Rock Stadium",
+                    "event_id": "1411021",
+                    "event_date": "2021-11-07 13:00",
+                    "away_team_id": "42",
+                    "away_primary_color": "#02253A",
+                    "away_secondary_color": "#B31B34",
+                    "away_tertiary_color": "#FFFFFF",
+                    "away_abbreviation": "HOU",
+                    "away_name": "Houston Texans",
+                    "away_nick_name": "Texans",
+                    "away_city": "Houston",
+                    "away_image_id": "",
+                    "home_team_id": "65",
+                    "home_primary_color": "#006666",
+                    "home_secondary_color": "#DF6108",
+                    "home_tertiary_color": "#FFFFFF",
+                    "home_abbreviation": "MIA",
+                    "home_name": "Miami Dolphins",
+                    "home_nick_name": "Dolphins",
+                    "home_city": "Miami",
+                    "home_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "9",
+                    "home_score": "17",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "MIA",
+                    "away_short_name": "HOU",
+                    "home_display_name": "Miami",
+                    "away_display_name": "Houston",
+                    "tv_station": "FOX",
+                    "tv_station_name": "FOX",
+                    "surface": "Grass",
+                    "stadium_rotation": "125",
+                    "roof": "Open",
+                    "away_record": "1-7",
+                    "home_record": "1-7",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "A":
+                            {
+                                "quarter1score": "0",
+                                "quarter2score": "6",
+                                "quarter3score": "0",
+                                "quarter4score": "3",
+                                "overtimescore": "0",
+                                "totalscore": "9"
+                            },
+                            "H":
+                            {
+                                "quarter1score": "7",
+                                "quarter2score": "10",
+                                "quarter3score": "0",
+                                "quarter4score": "0",
+                                "overtimescore": "0",
+                                "totalscore": "17"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "452",
+                    "away_rotation": "451"
+                },
+                "1411026":
+                {
+                    "stadium": "Bank of America Stadium",
+                    "event_id": "1411026",
+                    "event_date": "2021-11-07 13:00",
+                    "away_team_id": "44",
+                    "away_primary_color": "#03275B",
+                    "away_secondary_color": "#888685",
+                    "away_tertiary_color": "#D02F27",
+                    "away_abbreviation": "NE",
+                    "away_name": "New England Patriots",
+                    "away_nick_name": "Patriots",
+                    "away_city": "New England",
+                    "away_image_id": "",
+                    "home_team_id": "59",
+                    "home_primary_color": "#089DC5",
+                    "home_secondary_color": "#888F92",
+                    "home_tertiary_color": "#000000",
+                    "home_abbreviation": "CAR",
+                    "home_name": "Carolina Panthers",
+                    "home_nick_name": "Panthers",
+                    "home_city": "Carolina",
+                    "home_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "24",
+                    "home_score": "6",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "CAR",
+                    "away_short_name": "NE",
+                    "home_display_name": "Carolina",
+                    "away_display_name": "New England",
+                    "tv_station": "CBS",
+                    "tv_station_name": "CBS",
+                    "surface": "Grass",
+                    "stadium_rotation": "140",
+                    "roof": "Open",
+                    "away_record": "4-4",
+                    "home_record": "4-4",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "A":
+                            {
+                                "quarter1score": "0",
+                                "quarter2score": "14",
+                                "quarter3score": "10",
+                                "quarter4score": "0",
+                                "overtimescore": "0",
+                                "totalscore": "24"
+                            },
+                            "H":
+                            {
+                                "quarter1score": "0",
+                                "quarter2score": "6",
+                                "quarter3score": "0",
+                                "quarter4score": "0",
+                                "overtimescore": "0",
+                                "totalscore": "6"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "458",
+                    "away_rotation": "457"
+                },
+                "1411031":
+                {
+                    "stadium": "M&T Bank Stadium",
+                    "event_id": "1411031",
+                    "event_date": "2021-11-07 13:00",
+                    "home_team_id": "48",
+                    "home_primary_color": "#000000",
+                    "home_secondary_color": "#2C2E81",
+                    "home_tertiary_color": "#DEAC33",
+                    "home_abbreviation": "BAL",
+                    "home_name": "Baltimore Ravens",
+                    "home_nick_name": "Ravens",
+                    "home_city": "Baltimore",
+                    "home_image_id": "",
+                    "away_team_id": "57",
+                    "away_primary_color": "#3B0160",
+                    "away_secondary_color": "#CE9D00",
+                    "away_tertiary_color": "#FFFFFF",
+                    "away_abbreviation": "MIN",
+                    "away_name": "Minnesota Vikings",
+                    "away_nick_name": "Vikings",
+                    "away_city": "Minnesota",
+                    "away_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "31",
+                    "home_score": "34",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "BAL",
+                    "away_short_name": "MIN",
+                    "home_display_name": "Baltimore",
+                    "away_display_name": "Minnesota",
+                    "tv_station": "FOX",
+                    "tv_station_name": "FOX",
+                    "surface": "Grass",
+                    "stadium_rotation": "110",
+                    "roof": "Open",
+                    "away_record": "3-4",
+                    "home_record": "5-2",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "H":
+                            {
+                                "quarter1score": "3",
+                                "quarter2score": "7",
+                                "quarter3score": "7",
+                                "quarter4score": "14",
+                                "overtimescore": "3",
+                                "totalscore": "34"
+                            },
+                            "A":
+                            {
+                                "quarter1score": "7",
+                                "quarter2score": "10",
+                                "quarter3score": "7",
+                                "quarter4score": "7",
+                                "overtimescore": "0",
+                                "totalscore": "31"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "456",
+                    "away_rotation": "455"
+                },
+                "1411036":
+                {
+                    "stadium": "Paul Brown Stadium",
+                    "event_id": "1411036",
+                    "event_date": "2021-11-07 13:00",
+                    "home_team_id": "41",
+                    "home_primary_color": "#000000",
+                    "home_secondary_color": "#FB4F14",
+                    "home_tertiary_color": "#FFFFFF",
+                    "home_abbreviation": "CIN",
+                    "home_name": "Cincinnati Bengals",
+                    "home_nick_name": "Bengals",
+                    "home_city": "Cincinnati",
+                    "home_image_id": "",
+                    "away_team_id": "60",
+                    "away_primary_color": "#3E220D",
+                    "away_secondary_color": "#F36A24",
+                    "away_tertiary_color": "#FFFFFF",
+                    "away_abbreviation": "CLE",
+                    "away_name": "Cleveland Browns",
+                    "away_nick_name": "Browns",
+                    "away_city": "Cleveland",
+                    "away_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "41",
+                    "home_score": "16",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "CIN",
+                    "away_short_name": "CLE",
+                    "home_display_name": "Cincinnati",
+                    "away_display_name": "Cleveland",
+                    "tv_station": "CBS",
+                    "tv_station_name": "CBS",
+                    "surface": "Turf",
+                    "stadium_rotation": "140",
+                    "roof": "Open",
+                    "away_record": "4-4",
+                    "home_record": "5-3",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "H":
+                            {
+                                "quarter1score": "7",
+                                "quarter2score": "3",
+                                "quarter3score": "0",
+                                "quarter4score": "6",
+                                "overtimescore": "0",
+                                "totalscore": "16"
+                            },
+                            "A":
+                            {
+                                "quarter1score": "7",
+                                "quarter2score": "17",
+                                "quarter3score": "10",
+                                "quarter4score": "7",
+                                "overtimescore": "0",
+                                "totalscore": "41"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "462",
+                    "away_rotation": "461"
+                },
+                "1411041":
+                {
+                    "stadium": "MetLife Stadium",
+                    "event_id": "1411041",
+                    "event_date": "2021-11-07 13:00",
+                    "home_team_id": "55",
+                    "home_primary_color": "#003B7D",
+                    "home_secondary_color": "#808080",
+                    "home_tertiary_color": "#CA233D",
+                    "home_abbreviation": "NYG",
+                    "home_name": "New York Giants",
+                    "home_nick_name": "Giants",
+                    "home_city": "New York",
+                    "home_image_id": "",
+                    "away_team_id": "66",
+                    "away_primary_color": "#000000",
+                    "away_secondary_color": "#7A7D80",
+                    "away_tertiary_color": "#FFFFFF",
+                    "away_abbreviation": "LV",
+                    "away_name": "Las Vegas Raiders",
+                    "away_nick_name": "Raiders",
+                    "away_city": "Las Vegas",
+                    "away_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "16",
+                    "home_score": "23",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "NYG",
+                    "away_short_name": "LV",
+                    "home_display_name": "New York",
+                    "away_display_name": "Las Vegas",
+                    "tv_station": "CBS",
+                    "tv_station_name": "CBS",
+                    "surface": "Turf",
+                    "stadium_rotation": "170",
+                    "roof": "Open",
+                    "away_record": "5-2",
+                    "home_record": "2-6",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "H":
+                            {
+                                "quarter1score": "7",
+                                "quarter2score": "3",
+                                "quarter3score": "7",
+                                "quarter4score": "6",
+                                "overtimescore": "0",
+                                "totalscore": "23"
+                            },
+                            "A":
+                            {
+                                "quarter1score": "7",
+                                "quarter2score": "6",
+                                "quarter3score": "3",
+                                "quarter4score": "0",
+                                "overtimescore": "0",
+                                "totalscore": "16"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "464",
+                    "away_rotation": "463"
+                },
+                "1411046":
+                {
+                    "stadium": "Lincoln Financial Field",
+                    "event_id": "1411046",
+                    "event_date": "2021-11-07 16:05",
+                    "home_team_id": "40",
+                    "home_primary_color": "#034B57",
+                    "home_secondary_color": "#7A7D80",
+                    "home_tertiary_color": "#FFFFFF",
+                    "home_abbreviation": "PHI",
+                    "home_name": "Philadelphia Eagles",
+                    "home_nick_name": "Eagles",
+                    "home_city": "Philadelphia",
+                    "home_image_id": "",
+                    "away_team_id": "47",
+                    "away_primary_color": "#002859",
+                    "away_secondary_color": "#3477B8",
+                    "away_tertiary_color": "#FFC30D",
+                    "away_abbreviation": "LAC",
+                    "away_name": "Los Angeles Chargers",
+                    "away_nick_name": "Chargers",
+                    "away_city": "Los Angeles",
+                    "away_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "27",
+                    "home_score": "24",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "PHI",
+                    "away_short_name": "LAC",
+                    "home_display_name": "Philadelphia",
+                    "away_display_name": "Los Angeles",
+                    "tv_station": "CBS",
+                    "tv_station_name": "CBS",
+                    "surface": "Grass",
+                    "stadium_rotation": "175",
+                    "roof": "Open",
+                    "away_record": "4-3",
+                    "home_record": "3-5",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "H":
+                            {
+                                "quarter1score": "0",
+                                "quarter2score": "10",
+                                "quarter3score": "7",
+                                "quarter4score": "7",
+                                "overtimescore": "0",
+                                "totalscore": "24"
+                            },
+                            "A":
+                            {
+                                "quarter1score": "7",
+                                "quarter2score": "0",
+                                "quarter3score": "9",
+                                "quarter4score": "11",
+                                "overtimescore": "0",
+                                "totalscore": "27"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "468",
+                    "away_rotation": "467"
+                },
+                "1411051":
+                {
+                    "stadium": "Levi's Stadium",
+                    "event_id": "1411051",
+                    "event_date": "2021-11-07 16:25",
+                    "away_team_id": "45",
+                    "away_primary_color": "#000000",
+                    "away_secondary_color": "#870619",
+                    "away_tertiary_color": "#FFFFFF",
+                    "away_abbreviation": "ARI",
+                    "away_name": "Arizona Cardinals",
+                    "away_nick_name": "Cardinals",
+                    "away_city": "Arizona",
+                    "away_image_id": "",
+                    "home_team_id": "58",
+                    "home_primary_color": "#AB8B54",
+                    "home_secondary_color": "#AA000A",
+                    "home_tertiary_color": "#FFFFFF",
+                    "home_abbreviation": "SF",
+                    "home_name": "San Francisco 49ers",
+                    "home_nick_name": "49ers",
+                    "home_city": "San Francisco",
+                    "home_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "31",
+                    "home_score": "17",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "SF",
+                    "away_short_name": "ARI",
+                    "home_display_name": "San Francisco",
+                    "away_display_name": "Arizona",
+                    "tv_station": "FOX",
+                    "tv_station_name": "FOX",
+                    "surface": "Grass",
+                    "stadium_rotation": "150",
+                    "roof": "Open",
+                    "away_record": "7-1",
+                    "home_record": "3-4",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "A":
+                            {
+                                "quarter1score": "14",
+                                "quarter2score": "3",
+                                "quarter3score": "14",
+                                "quarter4score": "0",
+                                "overtimescore": "0",
+                                "totalscore": "31"
+                            },
+                            "H":
+                            {
+                                "quarter1score": "0",
+                                "quarter2score": "7",
+                                "quarter3score": "7",
+                                "quarter4score": "3",
+                                "overtimescore": "0",
+                                "totalscore": "17"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "472",
+                    "away_rotation": "471"
+                },
+                "1411056":
+                {
+                    "stadium": "GEHA Field at Arrowhead Stadium",
+                    "event_id": "1411056",
+                    "event_date": "2021-11-07 16:25",
+                    "away_team_id": "39",
+                    "away_primary_color": "#244729",
+                    "away_secondary_color": "#E0A200",
+                    "away_tertiary_color": "#FFFFFF",
+                    "away_abbreviation": "GB",
+                    "away_name": "Green Bay Packers",
+                    "away_nick_name": "Packers",
+                    "away_city": "Green Bay",
+                    "away_image_id": "",
+                    "home_team_id": "63",
+                    "home_primary_color": "#E1AC00",
+                    "home_secondary_color": "#BD0100",
+                    "home_tertiary_color": "#FFFFFF",
+                    "home_abbreviation": "KC",
+                    "home_name": "Kansas City Chiefs",
+                    "home_nick_name": "Chiefs",
+                    "home_city": "Kansas City",
+                    "home_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "7",
+                    "home_score": "13",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "KC",
+                    "away_short_name": "GB",
+                    "home_display_name": "Kansas City",
+                    "away_display_name": "Green Bay",
+                    "tv_station": "FOX",
+                    "tv_station_name": "FOX",
+                    "surface": "Grass",
+                    "stadium_rotation": "140",
+                    "roof": "Open",
+                    "away_record": "7-1",
+                    "home_record": "4-4",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "A":
+                            {
+                                "quarter1score": "0",
+                                "quarter2score": "0",
+                                "quarter3score": "0",
+                                "quarter4score": "7",
+                                "overtimescore": "0",
+                                "totalscore": "7"
+                            },
+                            "H":
+                            {
+                                "quarter1score": "7",
+                                "quarter2score": "6",
+                                "quarter3score": "0",
+                                "quarter4score": "0",
+                                "overtimescore": "0",
+                                "totalscore": "13"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "470",
+                    "away_rotation": "469"
+                },
+                "1411061":
+                {
+                    "stadium": "SoFi Stadium",
+                    "event_id": "1411061",
+                    "event_date": "2021-11-07 20:20",
+                    "away_team_id": "62",
+                    "away_primary_color": "#00295B",
+                    "away_secondary_color": "#347AAA",
+                    "away_tertiary_color": "#FFFFFF",
+                    "away_abbreviation": "TEN",
+                    "away_name": "Tennessee Titans",
+                    "away_nick_name": "Titans",
+                    "away_city": "Tennessee",
+                    "away_image_id": "",
+                    "home_team_id": "64",
+                    "home_primary_color": "#13264B",
+                    "home_secondary_color": "#BE9B4B",
+                    "home_tertiary_color": "#FFFFFF",
+                    "home_abbreviation": "LAR",
+                    "home_name": "Los Angeles Rams",
+                    "home_nick_name": "Rams",
+                    "home_city": "Los Angeles",
+                    "home_image_id": "",
+                    "event_status": "Complete",
+                    "status": "Final",
+                    "away_score": "28",
+                    "home_score": "16",
+                    "boxscore_available": "Yes",
+                    "home_short_name": "LAR",
+                    "away_short_name": "TEN",
+                    "home_display_name": "Los Angeles",
+                    "away_display_name": "Tennessee",
+                    "tv_station": "NBC",
+                    "tv_station_name": "NBC",
+                    "away_record": "6-2",
+                    "home_record": "7-1",
+                    "recap_available": "Yes",
+                    "scoring":
+                    {
+                        "data":
+                        {
+                            "A":
+                            {
+                                "quarter1score": "0",
+                                "quarter2score": "21",
+                                "quarter3score": "0",
+                                "quarter4score": "7",
+                                "overtimescore": "0",
+                                "totalscore": "28"
+                            },
+                            "H":
+                            {
+                                "quarter1score": "3",
+                                "quarter2score": "0",
+                                "quarter3score": "3",
+                                "quarter4score": "10",
+                                "overtimescore": "0",
+                                "totalscore": "16"
+                            }
+                        },
+                        "columns":
+                        {
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "overtimescore": "OvertimeScore",
+                            "totalscore": "TotalScore"
+                        }
+                    },
+                    "home_rotation": "474",
+                    "away_rotation": "473",
+                    "stadium_rotation": "",
+                    "roof": "",
+                    "surface": ""
+                }
+            },
+            "columns":
+            {
+                "away_record": "away record",
+                "home_record": "home record",
+                "event_id": "event id",
+                "event_date": "event date",
+                "away_team_id": "away team id",
+                "away_abbreviation": "away abbreviation",
+                "away_name": "away name",
+                "away_city": "away city",
+                "away_nick_name": "away nick name",
+                "away_image_id": "away image id",
+                "away_primary_color": "Away Primary Color",
+                "away_secondary_color": "Away Secondary Color",
+                "away_tertiary_color": "Away Tertiary Color",
+                "home_team_id": "home team id",
+                "home_name": "home name",
+                "home_city": "home city",
+                "home_nick_name": "home nick name",
+                "home_abbreviation": "home abbreviaiton",
+                "home_image_id": "home image id",
+                "home_primary_color": "Home Primary Color",
+                "home_secondary_color": "Home Secondary Color",
+                "home_tertiary_color": "Home Tertiary Color",
+                "stadium": "Stadium",
+                "away_score": "away score",
+                "home_score": "home score",
+                "away_short_name": "Away Short Name",
+                "home_short_name": "Home Short Name",
+                "status": "Status",
+                "recap_available": "recap available",
+                "boxscore_available": "Boxscore Available",
+                "scoring": "scoring",
+                "home_rotation": "Home Rotation Number",
+                "away_rotation": "Away Rotation Number",
+                "weather_code": "Weather Code",
+                "stadium_rotation": "Stadium Rotation",
+                "roof": "Roof",
+                "surface": "surface",
+                "away_display_name": "away display name",
+                "home_display_name": "home display name"
+            }
+        }
+    },
+    "hash": "2813f2475df382fde82621e981a0af83"
+}
